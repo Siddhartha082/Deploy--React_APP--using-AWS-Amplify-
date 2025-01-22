@@ -55,4 +55,27 @@ Integrating AWS Amplify with GitHub simplifies the process of continuous deploym
 
 For more detailed information, refer to the [AWS Amplify Documentation](https://docs.amplify.aws/).
 
----
+---# Pratical
+![image](https://github.com/user-attachments/assets/4b71d641-3447-466a-ab8b-ce18972a2f54)
+![image](https://github.com/user-attachments/assets/68a13c61-1ba3-4a4a-9e7f-ff32ca5ca3b4)
+![image](https://github.com/user-attachments/assets/63496e1c-b7bc-43e5-8576-2a35e529445e)
+![image](https://github.com/user-attachments/assets/8d7dff5a-4caf-45e3-9103-2d18e3ac59fb)
+![image](https://github.com/user-attachments/assets/e834ffad-f6a0-4a3f-9f0f-d56b878652a3)
+## code - 
+![image](https://github.com/user-attachments/assets/5f7a8504-b323-4ccf-86f6-57d30909a23b)
+![image](https://github.com/user-attachments/assets/8514ee01-6899-44c7-b05d-6eeeacfca581)
+![image](https://github.com/user-attachments/assets/ce32366d-bc60-4d09-8f26-dc5e003c4379)
+![image](https://github.com/user-attachments/assets/49a89ab6-0820-4bfe-a1f3-81cbeba215a3)
+![image](https://github.com/user-attachments/assets/66e16e47-7be4-4431-ae9a-601d2b09f389)
+![image](https://github.com/user-attachments/assets/b3a1fcd2-d1ee-466f-8cc3-0d85d268f22a)
+![image](https://github.com/user-attachments/assets/c36c502b-f988-4e08-9bb9-a47268aa8221)
+![image](https://github.com/user-attachments/assets/b67ee440-d094-40ae-b317-885dd116c4b4)
+![image](https://github.com/user-attachments/assets/e7c2338d-d9db-4b4f-8a82-8c48e67d699e)
+![image](https://github.com/user-attachments/assets/5e958a61-2c23-47dd-adc4-78862283d561)
+![image](https://github.com/user-attachments/assets/e01b91c0-58e7-4952-bf86-5f0bf19a0d8b)
+![image](https://github.com/user-attachments/assets/fd25fcc5-0d88-4722-9119-69985c65daae)
+# O/p
+![image](https://github.com/user-attachments/assets/5e5c3323-c53f-46b7-9dda-c33b216e5bba)
+## SSL Certificate
+![image](https://github.com/user-attachments/assets/871a73e8-6b03-4181-bd73-3b17856e4ec9)
+
