@@ -1,4 +1,3 @@
-![36](https://github.com/saikiranpi/mastering-aws/assets/109568252/384c5621-7d74-40bf-a5d2-a5e414e2442a)
 
 
 # AWS Amplify Integration with GitHub
